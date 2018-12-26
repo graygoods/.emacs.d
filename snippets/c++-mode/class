@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: 
+# key: tab 
+# --
+
+class Solution{
+private :
+
+public :
+
+};
+Solution sol;
+

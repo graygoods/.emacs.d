@@ -1,0 +1,28 @@
+# -*- mode: snippet -*-
+# name: head
+# key: #include<cstdio>
+# --
+#include<cstdio>
+#include<algorithm>
+
+class Solution{
+private :
+    $0
+    
+public :
+    Solution() {
+        Get();
+        Solve();
+    }
+
+    void Get() {
+        
+    }
+
+    void Solve() {
+        
+    }
+};
+Solution sol;
+
+int main() {}
