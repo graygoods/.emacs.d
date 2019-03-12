@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: insert code
-# key: ```
-# --
-#+BEGIN_SRC
-
-#+END_SRC
