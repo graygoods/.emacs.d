@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: head
-# key: #include<cstdio>
-# --
-$0
