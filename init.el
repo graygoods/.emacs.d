@@ -247,7 +247,7 @@
 (require 'mime-w3m) 
 (setq w3m-default-display-inline-image t) 
 (setq w3m-default-toggle-inline-images t)
-
+;...
 ;(add-hook 'c-mode-hook 'company-clang)
 ;(add-hook 'after-init-hook 'global-company-mode)
 ;(add-hook 'c++-mode-hook 'global-company-mode)
