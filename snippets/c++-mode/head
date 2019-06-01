@@ -11,15 +11,15 @@ private :
     
 public :
     Solution() {
-        Get();
-        Solve();
+        get();
+        solve();
     }
 
-    void Get() {
+    void get() {
         
     }
 
-    void Solve() {
+    void solve() {
         
     }
 };
