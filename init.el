@@ -92,6 +92,7 @@
     ;;(shell-command "start tmp.bat")
     ;;(shell-command "del tmp.bat")
     (shell-command (format "echo @echo off ^& ConsolePauser %s.exe ^& exit >> tmp.bat" (substring buffer-file-name 0 -4)))
+    ;; 请确保 ConsolePauser 在环境变量中已经配置完毕
     ;(shell-command "echo echo -------------------------------- ^& echo Process exited with return value ^%errorlevel^% ^& pause ^& exit >> tmp.bat")
     (shell-command "start tmp.bat")
     (shell-command "del tmp.bat")
